@@ -1,0 +1,17 @@
+/* {
+    color: cadetblue;     universal selector
+}  
+*/
+h1{
+    color: brown;      /* element selector */
+} 
+*/
+.heading1{
+  color: blue;     /* class selector */ 
+}
+.content2{
+    color: aqua;   
+}
+#para1{
+    color: blueviolet;   /* id selector */
+}
