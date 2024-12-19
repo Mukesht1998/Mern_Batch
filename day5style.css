@@ -1,0 +1,31 @@
+/* pick color from website- chrome extension
+*color pick Eyedropper* */
+
+/* Font-size- vh-viewport height or vm- viewport width */
+/* idendify the font extension- what font */
+/*find the font family - google font */
+
+*{
+    font-family: Poppins", serif  ;
+}
+.para1{
+    color: blue;    /* word */
+    font-size: 200%;
+    font-weight: bold;
+    font-family:Arial, sans-serif ;
+    text-decoration: line-through;
+}
+.para2{
+    color: rgb(116, 53, 176);     /*rgb */
+    font-size: 30px;    /* pixel */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;   /* 100-900 */
+}
+.para3{
+    color: #FF5C44;    /*hexvalue*/
+    font-size: 2rem ;     /* rem or rm*/
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style:dotted;
+    text-align: justify;
+}
