@@ -4,9 +4,10 @@
 /* Font-size- vh-viewport height or vm- viewport width */
 /* idendify the font extension- what font */
 /*find the font family - google font */
+/* Html Tree Gernerator- view the structure of the html elements */
 
 *{
-    font-family: Poppins", serif  ;
+    font-family: "Poppins", serif;
 }
 .para1{
     color: blue;    /* word */

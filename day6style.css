@@ -1,0 +1,49 @@
+/* cntl +shift+ c -> inspect */
+/* css maintain top to bottom flow- which one is last is taking high priority */
+
+*{
+    font-family: "Poppins", serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box1{
+    height: 200px; 
+    /* width: 500px; */
+    background-color:brown;
+    color: bisque;
+    background-image: url("assets/image3.jpg");
+    background-repeat:no-repeat;
+    background-position: 50%;
+    /* background: rgba(0, 0, 0, 0.5) url(assets/image1.jpg); */
+    /* background-position-x: 200px; */
+    /* background-position-y: 50px ; */
+    /* background-size: cover; */
+    background-size: auto;
+    /* background-size: contain; */
+    opacity: 0.5;
+    /* opacity level - 0.1-0.9              */
+}
+.box2{
+    height: 250px;
+    width: 500px;
+    background-color: bisque;
+    border: saddlebrown 5px solid;
+    /* border-width: 5px; */
+    /* border-color: brown; */
+    /* border-style: solid; */
+    padding: 25px 15px 10px 20px;    /* top right bottom left */
+    /* padding-left: 20px; */
+    /* padding-right: 15px; */
+    /* padding-top: 25px; */
+    /* padding-bottom: 10px; */
+    margin-top: 30px;
+    margin-left: 30px;
+    /* margin: auto; */
+    border-top-color: black;
+    border-bottom-color:brown ;
+    border-left-color: blueviolet;
+    border-right-color: cadetblue;
+    border-radius: 50px;
+}
+ 
