@@ -1,0 +1,14 @@
+.para {
+  color: blueviolet;
+  font-size: 16px;
+  font-family: "Poppins", serif;
+  text-decoration: underline;
+  text-align: start;
+  background-color: rgb(194, 153, 100);
+  margin: 20px;
+  padding: 20px;
+  border: 5px;
+  border-style: double;
+  border-color: aquamarine;
+  border-radius: 20px;
+}
